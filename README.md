@@ -1,2 +1,2 @@
 # Wenjia_ML_DDoS_experiments
-Wenjia's own ml experiments records
+Wenjia's own DDoS ml experiments records
